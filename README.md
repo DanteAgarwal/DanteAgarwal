@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 **PySpark** for big data transformation  <br>- **Apache Kafka** for streaming data pipelines  <br>- **Apache Airflow** for workflow orchestration  <br>- **Cassandra & NoSQL systems** for horizontal scalability  <br>- **RAG (Retrieval-Augmented Generation)** & LLM internals for building smarter AI assistants  <br>💬 <br>⚡ I'm a data guy who reads manhwa with game mechanics and dreams of building an AI that can solo CTF challenges 
 
