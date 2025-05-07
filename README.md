@@ -1,4 +1,10 @@
-![Header](./github-header-image.png)
+<!-- ![Header](./github-header-image.png) -->
+<img src="./github-header-image.png" alt="Header" width="900" />
+
+# Contact me:
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatgoyal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-goyal-007/)
+[![X_Account](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SigFried_Vistor)
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 **PySpark** for big data transformation  <br>- **Apache Kafka** for streaming data pipelines  <br>- **Apache Airflow** for workflow orchestration  <br>- **Cassandra & NoSQL systems** for horizontal scalability  <br>- **RAG (Retrieval-Augmented Generation)** & LLM internals for building smarter AI assistants  <br>💬 <br>⚡ I'm a data guy who reads manhwa with game mechanics and dreams of building an AI that can solo CTF challenges 
